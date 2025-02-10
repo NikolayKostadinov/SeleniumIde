@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionFolder", "SolutionFolder", "{7323AA2E-FE15-40A3-94D0-83AB5422B911}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
+		Jenkinsfile = Jenkinsfile
 	EndProjectSection
 EndProject
 Global
